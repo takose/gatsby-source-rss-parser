@@ -1,0 +1,1 @@
+# gatsby-source-rss-parser
